@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Codepath Prework</string>
+    <string name="Bao_intro">Hello World! My name is Bao Khanh. I\'m new to Android development and I love video games.</string>
+    <string name="HelloButtonText">Say Hello</string>
+    <string name="ImageDes">Game Image</string>
+</resources>
